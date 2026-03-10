@@ -1,7 +1,7 @@
 package Dao;
 
 import DBConnection;
-import models.Course;
+import Model.Course;
 
 import java.sql.*;
 import java.util.ArrayList;
